@@ -1,0 +1,10 @@
+{
+  "USER":"",
+  "PWD":"",
+  "URL": {
+    "HOST": "",
+    "STREAMSETS": "",
+    "CONTROL_HUB_AUTH": ""
+  },
+  "VERSION":""
+}

@@ -1,0 +1,17 @@
+{
+  "COMPANY":"",
+  "DB":"",
+  "USER":"",
+  "PWD":"",
+  "KUSER":"",
+  "KPWD":"",
+  "ENV":"",
+  "URL": {
+    "HOST": "",
+    "STREAMSETS": "",
+    "CONTROL_HUB_AUTH": ""
+  },
+  "IMPALA_SHELL_CMD":"",
+  "VERSION":""
+
+}
